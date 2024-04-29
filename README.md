@@ -1,6 +1,6 @@
 ### Hi there ✨
-🔭 I'm a researcher at Galux Inc. and received my master's degree in computer engineering from Korea University.
-I majored in biology:deciduous_tree: and data science:dart: when I was an undergraduate!
+🔭 I'm a researcher in _Generative AI_ at Galux Inc. and received my master's degree in computer engineering from Korea University.    
+I majored in biology 🌳 and data science 🎯 when I was an undergraduate!    
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sumin-seo-781371176/)    
 
 <!--
