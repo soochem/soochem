@@ -1,5 +1,5 @@
 ### Hi there ✨
-🔭 I'm a researcher in _Generative AI_ at Galux Inc.
+🔭 I'm a researcher in _Generative AI_ at Galux Inc.    
 I received my master's degree in computer engineering from Korea University.    
 I majored in biology 🌳 and data science 🎯 when I was an undergraduate student!    
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sumin-seo-781371176/)    
