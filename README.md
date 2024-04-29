@@ -1,6 +1,7 @@
 ### Hi there ✨
-🔭 I'm a researcher in _Generative AI_ at Galux Inc. and received my master's degree in computer engineering from Korea University.    
-I majored in biology 🌳 and data science 🎯 when I was an undergraduate!    
+🔭 I'm a researcher in _Generative AI_ at Galux Inc.
+I received my master's degree in computer engineering from Korea University.    
+I majored in biology 🌳 and data science 🎯 when I was an undergraduate student!    
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sumin-seo-781371176/)    
 
 <!--
@@ -17,4 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![soochem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=soochem&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![soochem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=soochem&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
